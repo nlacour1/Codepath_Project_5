@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **Pokemon**.
 
 ## Video Demo
 
